@@ -1,0 +1,11 @@
+streamlit
+pennylane
+torch
+scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
+pillow
+plotly
+streamlit-extras
